@@ -1,0 +1,26 @@
+# common
+requests
+
+# data
+jupyter
+pandas
+scipy
+
+# file i\o
+openpyxl
+xlsxwriter
+
+# data processing
+bs4
+
+# viz
+matplotlib
+seaborn
+tqdm
+
+# ml
+sklearn
+
+# web
+selenium
+
